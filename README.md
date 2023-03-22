@@ -1,4 +1,4 @@
-### Hi! My name is Vladimir 👋
+### Hi! 👋 My name is Vladimir
 Welcome to my github page
 
 - 🌱 I’m currently learning Java
