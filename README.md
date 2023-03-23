@@ -10,7 +10,7 @@ Welcome to my github page
 Java, Spring Framework, Spring Data JPA, PostgreSQL, REST API, Docker, JDBC, Mockito and more...
 
 ### About me:
-I live in Moscow and have been working in the technology area for over 8 years.
+I live in Moscow and have been working in the fintech area for over 8 years.
 I have a goal to become a great Java developer.
 
 You can ask me about everything. I'm open to discuss my projects and taking part in your projects.
