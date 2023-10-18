@@ -7,7 +7,7 @@ Welcome to my github page
 - 📫 How to reach me: telegram @v1adimir_21
 
 ### My technology stack:
-Java, Spring Framework, Spring Data JPA, PostgreSQL, REST API, Docker, JDBC, Mockito and more...
+Java, Spring Framework, Spring Data JPA, Spring Security, Spring AOP, Reactive Spring, Kafka, PostgreSQL, REST API, Docker, JDBC, Mockito and more...
 
 ### About me:
 I live in Moscow and have been working in the fintech area for over 8 years.
