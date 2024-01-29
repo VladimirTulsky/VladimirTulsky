@@ -1,7 +1,7 @@
 ### Hi! 👋 My name is Vladimir
 Welcome to my github page
 
-- 🌱 I’m Java developer
+- 🌱 I’m a Java developer
 - 🔭 I'm looking for interesting projects
 - ⚡ I'm improving my skills every day
 - 📫 How to reach me: telegram @v1adimir_21
